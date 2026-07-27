@@ -293,50 +293,6 @@ Example:
 ![Chat](images/chat.png)
 ```
 
----
-
-# 🚀 Future Improvements
-
-- User authentication
-- Saved trips
-- Trip history
-- Dark mode
-- Voice interaction
-- Interactive maps
-- Flight booking integration
-- Hotel booking integration
-- Export itinerary as PDF
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-
-2. Create a new branch
-
-```bash
-git checkout -b feature/new-feature
-```
-
-3. Commit changes
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push your branch
-
-```bash
-git push origin feature/new-feature
-```
-
-5. Open a Pull Request
-
----
-
 # 🙌 Acknowledgements
 
 Built with ❤️ using:
