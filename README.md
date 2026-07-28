@@ -11,24 +11,6 @@
 
 ---
 
-# 🎥 Demo
-
-> **Coming Soon**
-
-Replace the placeholder below with your own application screenshot or demo GIF.
-
-<p align="center">
-  <img src="https://via.placeholder.com/900x450?text=Tripzy+Frontend+Demo" width="900">
-</p>
-
-After uploading a screenshot or `demo.gif`, replace it with:
-
-```md
-![Tripzy Frontend Demo](demo.gif)
-```
-
----
-
 # ✨ Features
 
 - 🧳 Interactive trip planning form
